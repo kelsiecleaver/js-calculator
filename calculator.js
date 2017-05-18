@@ -31,11 +31,7 @@ function load (num){
    * @return { Number }
    */
 
-   function getTotal(){
-    return total;
-   }else{
-    throw new Error ("incorrect");
-   }
+
 
 
   /**
