@@ -31,7 +31,9 @@ function load (num){
    * @return { Number }
    */
 
-
+  function getTotal(){
+    return total;
+   }
 
 
   /**
